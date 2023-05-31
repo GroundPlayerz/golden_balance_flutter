@@ -1,16 +1,10 @@
-# golden_balance_flutter
+# 황금밸런스 - 밸런스 게임 앱
 
-A new Flutter application.
 
-## Getting Started
+## 프로젝트 소개 페이지
+https://steep-grip-1b9.notion.site/bdc30744d62843939583fab0d1f60f92
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+### 앱(Flutter)개발 담당 최윤지의 포트폴리오 -
+https://steep-grip-1b9.notion.site/Front-end-Engineer-5edd37725be44663912f1b0b250b31c6
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
